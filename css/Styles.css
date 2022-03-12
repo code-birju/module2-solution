@@ -1,0 +1,14 @@
+.heading{
+	text-transform: uppercase;
+}
+
+.row{
+	margin-bottom: 27px;
+}
+.row > div{
+	border: 2px solid red;
+	background-color: gray;
+}
+.sameH{
+	width: 400px;
+}
